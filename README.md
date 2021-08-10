@@ -39,7 +39,6 @@ conda install -c conda-forge voila
 ---
 
 ## Examples 
-Project consists of:
 
 * Interactive Visualisations using Holoview
 
@@ -47,7 +46,9 @@ Project consists of:
 
 * Advanced SQL queries 
 
-![image4](images/advanced_sql_query.png)
+![advanced_sql_query](images/advanced_sql_query.png)
+
+
 
 
 ## Voila Webpage
