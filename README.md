@@ -46,7 +46,7 @@ conda install -c conda-forge voila
 
 * Advanced SQL queries 
 
-![advanced_sql_query](images/advanced_sql_query.png)
+![advanced_sql_query](images/advanced_SQL_query.png)
 
 
 
